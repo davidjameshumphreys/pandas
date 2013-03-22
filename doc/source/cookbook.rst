@@ -206,6 +206,9 @@ The :ref:`CSV <io.read_csv_table>` docs
 `Inferring dtypes from a file
 <http://stackoverflow.com/questions/15555005/get-inferred-dataframe-types-iteratively-using-chunksize>`__
 
+`Dealing with badly aligned columns in a file
+<https://github.com/pydata/pandas/issues/2886>`__
+
 .. _cookbook.sql:
 
 SQL
